@@ -1,0 +1,40 @@
+PROJECT : web 3.0 blog that is written in rust
+
+PROJECT DEFINITION
+Create a web 3.0 blog that is written in Rust. The app should allow users to post their blogs and tokenize them.
+
+Statement of need : creation of this web app will boost my portfolio and possibly land me a job.
+
+Constraints: Slow laptop to build the project
+
+Delivarables:
+Frontend UI that the user can use to login, post and view blogs
+Backend which is a smart contract that tokenizes that tokenizes a blog post
+
+
+PROJECT LOGIC:
+TASKBOARDING:
+1. Create user interface that logs in user with ethereum address
+2. Create user interface body that takes in blog posts
+3. Write logic that stores blogs in database
+4. Create user interface that displays blogs
+5. Write smart contract that tokenizes blog
+
+PROJECT SCHEDULE:
+
+Task 1 : Friday
+Task 2: Saturday
+Task 3: Sunday 
+Task 4: Monday
+Task 5: Saturday
+
+RESOURCES
+Rust
+Cargo
+Yew
+Wasm
+Solidity
+Ethers
+Git
+Vercel
+Replit
